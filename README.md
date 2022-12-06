@@ -1,2 +1,2 @@
-# emoji-translator-app
+# Emoji-Translator
 Created with CodeSandbox
